@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+GitHub account for School, main account [here](https://github.com/MoXcz)
 <!--
 **Oscar27-22/Oscar27-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
